@@ -9,8 +9,8 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
 
 # 2. Minimizing collision impacts
-* [American Wind Wildlife Institute, webinarium - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
-* [American Wind Wildlife Institute, webinarium - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
+* [American Wind Wildlife Institute, webinar - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
+* [American Wind Wildlife Institute, webinar - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
 
 # 3. Conferences
 

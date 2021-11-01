@@ -4,15 +4,15 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 
 # 1. Bat monitoring systems
 
-* [Wind Wildlife, webinarium - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
-* [Wind Wildlife, webinarium - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
 * [dtbat - bat detection system, Spain](https://www.dtbat.com)
 * [fleximouse - bat detection system, Germany](https://www.fleximaus.de)
-* [MUSE, DHI - bird (in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
+* [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
 
+# 2. Minimizing collision impacts
+* [American Wind Wildlife Institute, webinarium - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
+* [American Wind Wildlife Institute, webinarium - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
 
-
-# 2. Conferences
+# 3. Conferences
 
 * [Eolien & Biodiversite, 17-18.11.2021, France](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/) 
 

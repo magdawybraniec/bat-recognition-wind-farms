@@ -2,7 +2,7 @@
 A curent list of resources dedicated to automated bat sounds recognition and bat monitoring on wind farms
 
 
-# 1. Already existing bat monitoring systems
+# 1. Bat monitoring systems
 
 * [Wind Wildlife, webinarium - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
 * [Wind Wildlife, webinarium - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
@@ -18,7 +18,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 
 
 
-# 3. Automated bat identification - papers
+# 3. Papers
 
 ## 2019
 
@@ -31,7 +31,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Bat Detective - Deep learning tools for bat acoustic signal detection](https://www.researchgate.net/publication/322636111_Bat_Detective_-_Deep_learning_tools_for_bat_acoustic_signal_detection)
 * [Weather conditions determine attenuation and speed of sound: Environmental limitations for monitoring and analyzing bat echolocation](https://www.researchgate.net/publication/324724450_Weather_conditions_determine_attenuation_and_speed_of_sound_Environmental_limitations_for_monitoring_and_analyzing_bat_echolocation)
 
-# 4. Equipment manufacturers
+# 4. Equipment
 
 * [Petterson, Sweden](https://batsound.com)
 * [Wildlife Acoustics, USA](https://www.wildlifeacoustics.com)

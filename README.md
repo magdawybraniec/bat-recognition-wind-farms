@@ -2,7 +2,7 @@
 A curent list of resources dedicated to automated bat sounds recognition and bat monitoring on wind farms
 
 
-# 1. Already existing bat monitoring systems
+## 1. Already existing bat monitoring systems
 
 * [Wind Wildlife, webinarium - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
 * [Wind Wildlife, webinarium - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)

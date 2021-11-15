@@ -54,4 +54,4 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Different bat detectors and processing software… Same results?](https://www.researchgate.net/publication/339600468_Different_bat_detectors_and_processing_software_Same_results)
 * [The Evolution of Acoustic Methods for the Study of Bats](https://www.researchgate.net/publication/348719648_The_Evolution_of_Acoustic_Methods_for_the_Study_of_Bats)
 * [Bat Pass Duration Measurement: An Indirect Measure of Distance of Detection](https://www.mdpi.com/1424-2818/11/3/47/htm)
-* [How to process bat wav sounds for lure or training](file:///C:/Users/Administrator/Downloads/How%20to%20process%20wav%20files%20for%20BatWav%20lure%20or%20trainer.pdf)
+* [How to process bat wav sounds for lure or training](https://peersonic.co.uk/playback)

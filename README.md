@@ -17,8 +17,8 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 ## Papers
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
 
-![bats4](https://user-images.githubusercontent.com/54321748/142783238-41476ea0-2657-4677-b201-61a7a8b73b2a.png)
 
+![bats4](https://user-images.githubusercontent.com/54321748/142783238-41476ea0-2657-4677-b201-61a7a8b73b2a.png)
 # Conferences
 
 * [Eolien & Biodiversite, 17-18.11.2021, France](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/) 

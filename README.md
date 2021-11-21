@@ -9,6 +9,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
 
 
+
 ![bats](https://user-images.githubusercontent.com/54321748/142782465-7064f5e5-1de1-4a11-a25d-650a2ae9fc78.png)
 
 # Minimizing collision impacts
@@ -19,11 +20,13 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
 
 
+
 ![bats](https://user-images.githubusercontent.com/54321748/142782465-7064f5e5-1de1-4a11-a25d-650a2ae9fc78.png)
 
 # Conferences
 
 * [Eolien & Biodiversite, 17-18.11.2021, France](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/) 
+
 
 
 ![bats](https://user-images.githubusercontent.com/54321748/142782465-7064f5e5-1de1-4a11-a25d-650a2ae9fc78.png)
@@ -49,6 +52,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Comparing the results of four widely used automated bat identification software programs to identify nine bat species in coastal Western Europe](https://www.researchgate.net/publication/326156624_Comparing_the_results_of_four_widely_used_automated_bat_identification_software_programs_to_identify_nine_bat_species_in_coastal_Western_Europe)
 * [Bat Detective - Deep learning tools for bat acoustic signal detection](https://www.researchgate.net/publication/322636111_Bat_Detective_-_Deep_learning_tools_for_bat_acoustic_signal_detection)
 * [Weather conditions determine attenuation and speed of sound: Environmental limitations for monitoring and analyzing bat echolocation](https://www.researchgate.net/publication/324724450_Weather_conditions_determine_attenuation_and_speed_of_sound_Environmental_limitations_for_monitoring_and_analyzing_bat_echolocation)
+
 
 
 ![bats](https://user-images.githubusercontent.com/54321748/142782465-7064f5e5-1de1-4a11-a25d-650a2ae9fc78.png)

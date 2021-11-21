@@ -8,7 +8,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [fleximouse - bat detection system, Germany](https://www.fleximaus.de)
 * [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
 
-![bats2](https://user-images.githubusercontent.com/54321748/142782778-14d8d637-186c-4381-ac8a-429eb8b95f5f.png)
+![bats3](https://user-images.githubusercontent.com/54321748/142782933-d0a8f478-b135-40eb-be11-0cecdd00f3c4.png)
 
 # Minimizing collision impacts
 * [American Wind Wildlife Institute, webinar - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
@@ -17,13 +17,13 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 ## Papers
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
 
-![bats2](https://user-images.githubusercontent.com/54321748/142782778-14d8d637-186c-4381-ac8a-429eb8b95f5f.png)
+![bats3](https://user-images.githubusercontent.com/54321748/142782933-d0a8f478-b135-40eb-be11-0cecdd00f3c4.png)
 
 # Conferences
 
 * [Eolien & Biodiversite, 17-18.11.2021, France](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/) 
 
-![bats2](https://user-images.githubusercontent.com/54321748/142782778-14d8d637-186c-4381-ac8a-429eb8b95f5f.png)
+![bats3](https://user-images.githubusercontent.com/54321748/142782933-d0a8f478-b135-40eb-be11-0cecdd00f3c4.png)
 
 # Recognition - papers
 
@@ -47,7 +47,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Bat Detective - Deep learning tools for bat acoustic signal detection](https://www.researchgate.net/publication/322636111_Bat_Detective_-_Deep_learning_tools_for_bat_acoustic_signal_detection)
 * [Weather conditions determine attenuation and speed of sound: Environmental limitations for monitoring and analyzing bat echolocation](https://www.researchgate.net/publication/324724450_Weather_conditions_determine_attenuation_and_speed_of_sound_Environmental_limitations_for_monitoring_and_analyzing_bat_echolocation)
 
-![bats2](https://user-images.githubusercontent.com/54321748/142782778-14d8d637-186c-4381-ac8a-429eb8b95f5f.png)
+![bats3](https://user-images.githubusercontent.com/54321748/142782933-d0a8f478-b135-40eb-be11-0cecdd00f3c4.png)
 
 # Equipment
 

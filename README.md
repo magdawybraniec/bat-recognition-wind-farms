@@ -2,26 +2,26 @@
 A curent list of resources dedicated to automated bat sounds recognition and bat monitoring on wind farms
 
 
-# 1. Bat monitoring systems
+# Bat monitoring systems
 
 * [dtbat - bat detection system, Spain](https://www.dtbat.com)
 * [fleximouse - bat detection system, Germany](https://www.fleximaus.de)
 * [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
 
-# 2. Minimizing collision impacts
+# Minimizing collision impacts
 * [American Wind Wildlife Institute, webinar - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
 * [American Wind Wildlife Institute, webinar - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
 
 ## Papers
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
 
-# 3. Conferences
+# Conferences
 
 * [Eolien & Biodiversite, 17-18.11.2021, France](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/) 
 
 
 
-# 3. Recognition - papers
+# Recognition - papers
 
 ## 2021
 * [Automated Bat Call Classification using Deep Convolutional Neural Networks](https://www.researchgate.net/publication/322636111_Bat_Detective_-_Deep_learning_tools_for_bat_acoustic_signal_detection)
@@ -45,7 +45,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 
 
 
-# 4. Equipment
+# Equipment
 
 ## Manufacturers
 * [Petterson, Sweden](https://batsound.com)

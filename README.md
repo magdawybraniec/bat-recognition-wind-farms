@@ -8,6 +8,8 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [fleximouse - bat detection system, Germany](https://www.fleximaus.de)
 * [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
 
+<img src="‪D:\STUDIA\SEM7\PRZ1\bats.jpg height="300">
+
 # Minimizing collision impacts
 * [American Wind Wildlife Institute, webinar - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
 * [American Wind Wildlife Institute, webinar - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)

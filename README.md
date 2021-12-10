@@ -63,3 +63,4 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Bat Pass Duration Measurement: An Indirect Measure of Distance of Detection](https://www.mdpi.com/1424-2818/11/3/47/htm)
 * [How to process bat wav sounds for lure or training](https://peersonic.co.uk/playback)
 * [How to make a bat lure](http://vespero-consulting.blogspot.com/2014/06/bat-lures.html)
+* [The benefits of full-spectrum data for analyzing bat echolocation calls](https://sonobat.com/wp-content/uploads/2014/02/presentation.pdf)

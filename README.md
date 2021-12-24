@@ -10,6 +10,12 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 
 ![bb](https://user-images.githubusercontent.com/54321748/142783501-7413f358-fd11-42ec-bf27-41ab04887469.jpg)
 
+# Bat recognition software
+
+* [SonoBat, USA](https://sonobat.com)
+* [SonoChiro, France](http://sonochiro.biotope.fr/en/)
+* [Kaleidoscope Pro](https://www.wildlifeacoustics.com/products/kaleidoscope-pro)
+
 # Minimizing collision impacts
 * [American Wind Wildlife Institute, webinar - curtailment, 04.10.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-curtailment/)
 * [American Wind Wildlife Institute, webinar - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)

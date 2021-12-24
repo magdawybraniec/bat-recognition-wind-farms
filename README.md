@@ -66,3 +66,6 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [How to make a bat lure](http://vespero-consulting.blogspot.com/2014/06/bat-lures.html)
 * [The benefits of full-spectrum data for analyzing bat echolocation calls](https://sonobat.com/wp-content/uploads/2014/02/presentation.pdf)
 
+# Data
+* [Bat conservation trust - collection of bat reference calls ](https://www.bats.org.uk/our-work/national-bat-monitoring-programme/passive-acoustic-surveys/collection-of-bat-reference-calls)
+

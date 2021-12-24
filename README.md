@@ -56,6 +56,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Wildlife Acoustics, USA](https://www.wildlifeacoustics.com)
 * [Titley Scientific](https://www.titley-scientific.com/eu/)
 * [Animal Sound Labs, Poland](https://animalsoundlabs.pl/en/)
+* [ecoObs](https://ecoobs.com/products/hardware/)
 
 ## Papers
 * [Different bat detectors and processing software… Same results?](https://www.researchgate.net/publication/339600468_Different_bat_detectors_and_processing_software_Same_results)
@@ -64,3 +65,4 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [How to process bat wav sounds for lure or training](https://peersonic.co.uk/playback)
 * [How to make a bat lure](http://vespero-consulting.blogspot.com/2014/06/bat-lures.html)
 * [The benefits of full-spectrum data for analyzing bat echolocation calls](https://sonobat.com/wp-content/uploads/2014/02/presentation.pdf)
+

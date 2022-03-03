@@ -23,16 +23,21 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 ## Papers
 ### General
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
+* [Impacts of Wind Energy Development on Bats: A Global Perspective](https://link.springer.com/chapter/10.1007/978-3-319-25220-9_11)
 
 ### Ultrasonic deterrents
 * [Ultrasonic acoustic deterrents significantly reduce bat
 fatalities at wind turbines](https://reader.elsevier.com/reader/sd/pii/S2351989420301827?token=45831941364C2C5560C686CAC6738319893D47457B75FCEB19264EE990CB6543FDC64EE8D8EA38E3255CAED33D7F6D08&originRegion=eu-west-1&originCreation=20220303081302)
 * [Testing the effectiveness of an experimental acoustic
 bat deterrent at the Maple Ridge wind farm](https://tethys.pnnl.gov/sites/default/files/publications/Horn_et_al_2008.pdf)
+* [Evaluation of an Acoustic Deterrent to ReduceBat Mortalities at an Illinois Wind Farm](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1025)
 
 ### Weather alghotithms
 * [Estimating Bat and Bird Mortality Occurring at Wind Energy Turbines from Covariates and Carcass Searches Using Mixture Models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
 * [Wildlife and renewable energy: German politics cross migratory bats](https://www.researchgate.net/publication/272093731_Wildlife_and_renewable_energy_German_politics_cross_migratory_bats)
+
+### Radar deterrents
+* [The Aversive Effect of Electromagnetic Radiation on Foraging Bats—A Possible Means of Discouraging Bats from Approaching Wind Turbines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006246)
 
 ![bb](https://user-images.githubusercontent.com/54321748/142783501-7413f358-fd11-42ec-bf27-41ab04887469.jpg)
 # Conferences

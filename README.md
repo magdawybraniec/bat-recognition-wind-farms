@@ -34,6 +34,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 fatalities at wind turbines](https://reader.elsevier.com/reader/sd/pii/S2351989420301827?token=45831941364C2C5560C686CAC6738319893D47457B75FCEB19264EE990CB6543FDC64EE8D8EA38E3255CAED33D7F6D08&originRegion=eu-west-1&originCreation=20220303081302)
 * [2020 Comparing acoustic and radar deterrence methods as mitigation measures to reduce human-bat impacts and conservation conflicts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228668)
 * [2019 Evaluation of an Acoustic Deterrent to ReduceBat Mortalities at an Illinois Wind Farm](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1025)
+* [2019 A smart curtailment approach for reducing bat fatalities and curtailment time at wind energy facilities](https://www.cms.int/sites/default/files/document/Inf.3%20Hayes%20et%20al.%202019.pdf)
 * [2016 Mitigating the Impact of Bats in Historic Churches: The Response of Natterer’s Bats Myotis nattereri to Artificial Roosts and Deterrence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146782)
 * [2013 Evaluating the Effectiveness of an Ultrasonic Acoustic Deterrent for Reducing Bat Fatalities at Wind Turbines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065794)
 * [2008 Testing the effectiveness of an experimental acoustic

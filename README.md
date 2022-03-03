@@ -26,14 +26,16 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [Impacts of Wind Energy Development on Bats: A Global Perspective](https://link.springer.com/chapter/10.1007/978-3-319-25220-9_11)
 
 ### Ultrasonic deterrents
-* [Ultrasonic acoustic deterrents significantly reduce bat
+* [2021 Acoustic deterrents influence foraging activity, flight and echolocation behaviour of free-flying bats](https://journals.biologists.com/jeb/article/224/20/jeb242715/272644/Acoustic-deterrents-influence-foraging-activity)
+* [2020 Ultrasonic acoustic deterrents significantly reduce bat
 fatalities at wind turbines](https://reader.elsevier.com/reader/sd/pii/S2351989420301827?token=45831941364C2C5560C686CAC6738319893D47457B75FCEB19264EE990CB6543FDC64EE8D8EA38E3255CAED33D7F6D08&originRegion=eu-west-1&originCreation=20220303081302)
-* [Testing the effectiveness of an experimental acoustic
+* [2020 Comparing acoustic and radar deterrence methods as mitigation measures to reduce human-bat impacts and conservation conflicts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228668)
+* [2019 Evaluation of an Acoustic Deterrent to ReduceBat Mortalities at an Illinois Wind Farm](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1025)
+* [2016 Mitigating the Impact of Bats in Historic Churches: The Response of Natterer’s Bats Myotis nattereri to Artificial Roosts and Deterrence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146782)
+* [2013 Evaluating the Effectiveness of an Ultrasonic Acoustic Deterrent for Reducing Bat Fatalities at Wind Turbines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065794)
+* [2008 Testing the effectiveness of an experimental acoustic
 bat deterrent at the Maple Ridge wind farm](https://tethys.pnnl.gov/sites/default/files/publications/Horn_et_al_2008.pdf)
-* [Evaluation of an Acoustic Deterrent to ReduceBat Mortalities at an Illinois Wind Farm](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1025)
-* [Acoustic deterrents influence foraging activity, flight and echolocation behaviour of free-flying bats](https://journals.biologists.com/jeb/article/224/20/jeb242715/272644/Acoustic-deterrents-influence-foraging-activity)
-* [Comparing acoustic and radar deterrence methods as mitigation measures to reduce human-bat impacts and conservation conflicts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228668)
-* [Mitigating the Impact of Bats in Historic Churches: The Response of Natterer’s Bats Myotis nattereri to Artificial Roosts and Deterrence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146782)
+
 
 ### Weather alghotithms
 * [Estimating Bat and Bird Mortality Occurring at Wind Energy Turbines from Covariates and Carcass Searches Using Mixture Models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)

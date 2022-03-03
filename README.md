@@ -31,6 +31,9 @@ fatalities at wind turbines](https://reader.elsevier.com/reader/sd/pii/S23519894
 * [Testing the effectiveness of an experimental acoustic
 bat deterrent at the Maple Ridge wind farm](https://tethys.pnnl.gov/sites/default/files/publications/Horn_et_al_2008.pdf)
 * [Evaluation of an Acoustic Deterrent to ReduceBat Mortalities at an Illinois Wind Farm](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/wsb.1025)
+* [Acoustic deterrents influence foraging activity, flight and echolocation behaviour of free-flying bats](https://journals.biologists.com/jeb/article/224/20/jeb242715/272644/Acoustic-deterrents-influence-foraging-activity)
+* [Comparing acoustic and radar deterrence methods as mitigation measures to reduce human-bat impacts and conservation conflicts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228668)
+* [Mitigating the Impact of Bats in Historic Churches: The Response of Natterer’s Bats Myotis nattereri to Artificial Roosts and Deterrence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146782)
 
 ### Weather alghotithms
 * [Estimating Bat and Bird Mortality Occurring at Wind Energy Turbines from Covariates and Carcass Searches Using Mixture Models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
@@ -38,6 +41,7 @@ bat deterrent at the Maple Ridge wind farm](https://tethys.pnnl.gov/sites/defaul
 
 ### Radar deterrents
 * [The Aversive Effect of Electromagnetic Radiation on Foraging Bats—A Possible Means of Discouraging Bats from Approaching Wind Turbines](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006246)
+* [Comparing acoustic and radar deterrence methods as mitigation measures to reduce human-bat impacts and conservation conflicts](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228668)
 
 ![bb](https://user-images.githubusercontent.com/54321748/142783501-7413f358-fd11-42ec-bf27-41ab04887469.jpg)
 # Conferences

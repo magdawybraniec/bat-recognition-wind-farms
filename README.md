@@ -25,6 +25,10 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
 
 ### Ultrasonic deterrents
+* [Ultrasonic acoustic deterrents significantly reduce bat
+fatalities at wind turbines](https://reader.elsevier.com/reader/sd/pii/S2351989420301827?token=45831941364C2C5560C686CAC6738319893D47457B75FCEB19264EE990CB6543FDC64EE8D8EA38E3255CAED33D7F6D08&originRegion=eu-west-1&originCreation=20220303081302)
+* [Testing the effectiveness of an experimental acoustic
+bat deterrent at the Maple Ridge wind farm](https://tethys.pnnl.gov/sites/default/files/publications/Horn_et_al_2008.pdf)
 
 ### Weather alghotithms
 * [Estimating Bat and Bird Mortality Occurring at Wind Energy Turbines from Covariates and Carcass Searches Using Mixture Models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)

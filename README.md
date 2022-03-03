@@ -21,6 +21,7 @@ A curent list of resources dedicated to automated bat sounds recognition and bat
 * [American Wind Wildlife Institute, webinar - deterrence, 09.11.2021, USA](https://awwi.org/webinars/bat-impact-minimization-webinar-deterrence/)
 
 ## Papers
+### General
 * [A review of the effectiveness of operational curtailment for reducing bat fatalities at terrestrial wind farms in North America](https://awwi.org/wp-content/uploads/2021/11/journal.pone_.0256382.pdf)
 
 

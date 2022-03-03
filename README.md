@@ -2,11 +2,12 @@
 A curent list of resources dedicated to automated bat sounds recognition and bat monitoring on wind farms
 
 
-# Bat monitoring systems
+# Bat solutions for windfarms
 
 * [dtbat - bat detection system, Spain](https://www.dtbat.com)
 * [fleximouse - bat detection system, Germany](https://www.fleximaus.de)
 * [MUSE, DHI - bird (and in the future also bat) detection system, Denmark](https://www.dhigroup.com/business-applications/dhi-muse)
+* [DARC bat curtailment, Natural Power](https://w3.windfair.net/wind-energy/pr/36575-natural-power-renewable-energy-consultancy-service-provider-darc-bat-protection-smart-curtailment)
 
 ![bb](https://user-images.githubusercontent.com/54321748/142783501-7413f358-fd11-42ec-bf27-41ab04887469.jpg)
 
